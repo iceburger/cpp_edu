@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sergejkolyskin/CLionProjects/untitled/geometry.h
+math.h
+/Users/sergejkolyskin/CLionProjects/untitled/math.h
+
+/Users/sergejkolyskin/CLionProjects/untitled/main.cpp
+iostream
+-
+math.h
+/Users/sergejkolyskin/CLionProjects/untitled/math.h
+geometry.h
+/Users/sergejkolyskin/CLionProjects/untitled/geometry.h
+
+/Users/sergejkolyskin/CLionProjects/untitled/math.h
+
